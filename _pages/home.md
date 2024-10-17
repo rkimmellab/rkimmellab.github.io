@@ -5,20 +5,6 @@ excerpt: "Kimmel Lab at Innsbruck University &rarr; LMU."
 sitemap: false
 permalink: /
 ---
-
-**Islet Development and Glucose Regulation**
-
-Our research is focused on pancreatic islet development, islet function, and metabolic disturbances
-in diabetes, using zebrafish as a model organism. A main interest is to use advanced imaging and
-analysis approaches to determine the cellular mechanisms controlling pancreatic islet cell
-coalescence, especially how intracellular motility is triggered and coordinated by extracellular
-signals and cell-cell interactions. In addition, our group uses the pdx1 mutant zebrafish to investigate
-metabolism relating to glucose homeostasis in zebrafish, and to explore the pathogenesis of diabetic
-complications.
-
-**Research Group of Robin A. Kimmel**
-**University of Innsbruck**
-
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -60,6 +46,20 @@ complications.
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
+**Islet Development and Glucose Regulation**
+
+Our research is focused on pancreatic islet development, islet function, and metabolic disturbances
+in diabetes, using zebrafish as a model organism. A main interest is to use advanced imaging and
+analysis approaches to determine the cellular mechanisms controlling pancreatic islet cell
+coalescence, especially how intracellular motility is triggered and coordinated by extracellular
+signals and cell-cell interactions. In addition, our group uses the pdx1 mutant zebrafish to investigate
+metabolism relating to glucose homeostasis in zebrafish, and to explore the pathogenesis of diabetic
+complications.
+
+**Research Group of Robin A. Kimmel**
+**University of Innsbruck**
+
+
 </div>
 
 
