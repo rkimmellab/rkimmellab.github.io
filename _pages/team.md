@@ -1,9 +1,9 @@
 ---
-title: "Allan Lab - Team"
+title: "Kimmel Lab - Research Intrests"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "Kimmel Lab: Research Intrests"
 sitemap: false
-permalink: /team/
+permalink: /research_intrests/
 ---
 
 # Group Members
