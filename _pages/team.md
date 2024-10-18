@@ -13,29 +13,24 @@ permalink: /research_intrests/
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/DirArrows.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/DirArrows.png" alt="Slide 0" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/RK_Research.tif" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/RK_Research.tif" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/RK_Research2.tif" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/RK_Research2.tif" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 4" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/_smCrpd_2018_0313_WTe3_36Sl_2ChRed_3DviewMagGr.tif" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/_smCrpd_2018_0313_WTe3_36Sl_2ChRed_3DviewMagGr.tif" alt="Slide 3" />
         </div>       
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/3D_Cells.png" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/3D_Cells.png" alt="Slide 4" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
