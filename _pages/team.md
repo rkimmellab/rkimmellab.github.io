@@ -17,7 +17,7 @@ permalink: /research_intrests/
     </ol>
 
     <!-- Items -->
-    <div class="carousel" markdown="0">
+    <div class="carousel-inner" markdown="0">
         <div class="item active">
             <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/DirArrows.png" alt="Slide 0" />
         </div>
