@@ -15,7 +15,7 @@ permalink: /
     <!-- Items -->
     <div class="carousel-inner">
       <div class="item active">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/RK_Landing_Horiz_CompHeadTail.tif" alt="Slide 1" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/RK_Landing_Horiz_CompHeadTail.png" alt="Slide 1" />
       </div>
     </div>
     <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -31,7 +31,7 @@ permalink: /
   <!-- Video Section -->
   <div id="video-container">
     <video width="500" height="300" autoplay loop muted>
-      <source src="{{ site.url }}{{ site.baseurl }}/images/Protrusion_Video.avi" type="video/avi">
+      <source src="{{ site.url }}{{ site.baseurl }}/images/Protrusion_Video.mp4" type="video/avi">
       Your browser does not support the video tag.
     </video>
   </div>
