@@ -6,7 +6,7 @@ sitemap: false
 permalink: /research_intrests/
 ---
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" style="display: block; margin: 0 auto; width: 80%;">
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -19,19 +19,19 @@ permalink: /research_intrests/
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/DirArrows.png" alt="Slide 0" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/DirArrows.png" alt="Slide 0" style="max-width: 100%; height: auto;" />
         </div>
         <div class="item">
-            <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/RK_Research.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/RK_Research.png" alt="Slide 1" style="max-width: 100%; height: auto;" />
         </div>
         <div class="item">
-            <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/RK_Research2.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/RK_Research2.png" alt="Slide 2" style="max-width: 100%; height: auto;" />
         </div>
         <div class="item">
-            <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/longname.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/longname.png" alt="Slide 3" style="max-width: 100%; height: auto;" />
         </div>       
         <div class="item">
-            <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/3D_Cells.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/3D_Cells.png" alt="Slide 4" style="max-width: 100%; height: auto;" />
         </div>
     </div>
 
