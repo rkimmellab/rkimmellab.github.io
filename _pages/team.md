@@ -3,7 +3,7 @@ title: "Kimmel Lab - Research Interests"
 layout: gridlay
 excerpt: "Kimmel Lab: Research Interests"
 sitemap: false
-permalink: /research_interests/
+permalink: /research_intrests/
 ---
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
