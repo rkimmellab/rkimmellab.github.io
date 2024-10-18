@@ -19,34 +19,19 @@ permalink: /research_intrests/
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/DirArrows.png" alt="Slide 0" />
-            <div class="carousel-caption">
-                <h3>Slide 0: Directional Arrows</h3>
-            </div>
+            <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/DirArrows.png" alt="Slide 0" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/RK_Research.png" alt="Slide 1" />
-            <div class="carousel-caption">
-                <h3>Slide 1: Research Topic</h3>
-            </div>
+            <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/RK_Research.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/RK_Research2.png" alt="Slide 2" />
-            <div class="carousel-caption">
-                <h3>Slide 2: Ongoing Research</h3>
-            </div>
+            <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/RK_Research2.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/_smCrpd_2018_0313_WTe3_36Sl_2ChRed_3DviewMagGr.png" alt="Slide 3" />
-            <div class="carousel-caption">
-                <h3>Slide 3: Cellular View</h3>
-            </div>
+            <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/_smCrpd_2018_0313_WTe3_36Sl_2ChRed_3DviewMagGr.png" alt="Slide 3" />
         </div>       
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/3D_Cells.png" alt="Slide 4" />
-            <div class="carousel-caption">
-                <h3>Slide 4: 3D Cell Model</h3>
-            </div>
+            <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/3D_Cells.png" alt="Slide 4" />
         </div>
     </div>
 
