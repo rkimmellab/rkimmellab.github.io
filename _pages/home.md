@@ -25,6 +25,12 @@ permalink: /
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
+  <div id="video-container">
+    <video width="500" height="300" autoplay loop muted>
+      <source src="{{ site.url }}{{ site.baseurl }}/images/Protrusion_Video.avi" type="video/avi">
+      Your browser does not support the video tag.
+    </video>
+  </div>
 **Islet Development and Glucose Regulation**
 
 Our research is focused on pancreatic islet development, islet function, and metabolic disturbances
