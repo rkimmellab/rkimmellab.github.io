@@ -7,7 +7,7 @@ permalink: /
 ---
 <div markdown="0" id="carousel-and-video" style="display: flex; justify-content: space-between; align-items: center;">
   <!-- Carousel Section -->
-  <div id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
+  <div id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" style="flex: 1;">
     <!-- Menu -->
     <ol class="carousel-indicators">
       <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -15,7 +15,7 @@ permalink: /
     <!-- Items -->
     <div class="carousel-inner">
       <div class="item active">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/RK_Landing_Horiz_CompHeadTail.png" alt="Slide 1" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/RK_Landing_Horiz_CompHeadTail.png" alt="Slide 1" style="max-width: 100%; height: auto;" />
       </div>
     </div>
     <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -29,9 +29,9 @@ permalink: /
   </div>
 
   <!-- Video Section -->
-  <div id="video-container">
-    <video width="500" height="300" autoplay loop muted>
-      <source src="{{ site.url }}{{ site.baseurl }}/images/Protrusion_Video.mp4" type="video/avi">
+  <div id="video-container" style="flex: 1; padding-left: 20px;">
+    <video width="700" height="400" autoplay loop muted>
+      <source src="{{ site.url }}{{ site.baseurl }}/images/Protrusion_Video.webm" type="video/avi">
       Your browser does not support the video tag.
     </video>
   </div>
@@ -49,6 +49,5 @@ complications.
 
 **Research Group of Robin A. Kimmel**
 **University of Innsbruck**
-
 
 
