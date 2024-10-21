@@ -34,11 +34,10 @@ permalink: /research_intrests/
 
     <!-- Images Section -->
     <div style="flex: 1;">
-        <img src="{{ site.baseurl }}/images/DirArrows.png" alt="Image 1" style="max-width: 100%; height: auto; margin-bottom: 20px;" />
-        <img src="{{ site.baseurl }}/images/RK_Research.png" alt="Image 2" style="max-width: 100%; height: auto; margin-bottom: 20px;" />
-        <img src="{{ site.baseurl }}/images/RK_Research2.png" alt="Image 3" style="max-width: 100%; height: auto; margin-bottom: 20px;" />
-        <img src="{{ site.baseurl }}/images/longname.png" alt="Image 4" style="max-width: 100%; height: auto; margin-bottom: 20px;" />
-        <img src="{{ site.baseurl }}/images/3D_Cells.png" alt="Image 5" style="max-width: 100%; height: auto;" />
+        <img src="/images/DirArrows.png" alt="Image 1" style="max-width: 100%; height: auto; margin-bottom: 20px;" />
+        <img src="/images/RK_Research.png" alt="Image 2" style="max-width: 100%; height: auto; margin-bottom: 20px;" />
+        <img src="/images/RK_Research2.png" alt="Image 3" style="max-width: 100%; height: auto; margin-bottom: 20px;" />
+        <img src="/images/longname.png" alt="Image 4" style="max-width: 100%; height: auto; margin-bottom: 20px;" />
+        <img src="/images/3D_Cells.png" alt="Image 5" style="max-width: 100%; height: auto;" />
     </div>
 </div>
-
