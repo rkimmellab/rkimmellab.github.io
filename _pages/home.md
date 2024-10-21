@@ -31,7 +31,7 @@ permalink: /
   <!-- Video Section -->
   <div id="video-container" style="flex: 1; padding-left: 20px;">
     <video width="700" height="400" autoplay loop muted>
-      <source src="{{ site.url }}{{ site.baseurl }}/images/Protrusion_Video.webm" type="video/avi">
+      <source src="{{ site.url }}{{ site.baseurl }}/images/Protrusion_Video.mp4 type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
