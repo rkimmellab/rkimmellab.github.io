@@ -47,7 +47,4 @@ signals and cell-cell interactions. In addition, our group uses the pdx1 mutant 
 metabolism relating to glucose homeostasis in zebrafish, and to explore the pathogenesis of diabetic
 complications.
 
-**Research Group of Robin A. Kimmel**
-**University of Innsbruck**
-
 
