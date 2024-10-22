@@ -6,8 +6,6 @@ sitemap: false
 permalink: /research_intrests/
 ---
 
-<div style="display: flex; gap: 20px;">
-    <div style="flex: 1;">
         <h2>Research Interests</h2>
 
         <h3>Pancreatic Islet Morphogenesis</h3>
@@ -29,13 +27,10 @@ permalink: /research_intrests/
         <p>
             In the collaborative project <strong>SWIMMOT</strong> (Switchable magneto-plasmonic contrast agents and molecular imaging technologies), advanced nanoparticle contrast agents are being developed for imaging disease pathophysiology. <strong>Funding: Horizon 2020 – FET OPEN</strong>
         </p>
-    </div>
 
-    <div style="flex: 1;">
         <img src="/images/DirArrows.png" alt="Image 1" style="max-width: 100%; height: auto; margin-bottom: 20px;" />
         <img src="/images/RK_Research.png" alt="Image 2" style="max-width: 100%; height: auto; margin-bottom: 20px;" />
         <img src="/images/RK_Research2.png" alt="Image 3" style="max-width: 100%; height: auto; margin-bottom: 20px;" />
         <img src="/images/longname.png" alt="Image 4" style="max-width: 100%; height: auto; margin-bottom: 20px;" />
         <img src="/images/3D_Cells.png" alt="Image 5" style="max-width: 100%; height: auto;" />
-    </div>
-</div>
+
