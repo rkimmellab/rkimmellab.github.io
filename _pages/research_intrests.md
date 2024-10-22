@@ -6,27 +6,27 @@ sitemap: false
 permalink: /research_intrests/
 ---
 
-        <h2>Research Interests</h2>
+        **Research Interests**
 
-        <h3>Pancreatic Islet Morphogenesis</h3>
-        <p>
+        **Pancreatic Islet Morphogenesis**
+        
             During pancreas development, endocrine progenitors emerge as single cells and progressively coalesce to form mature islets. We use zebrafish as a model for examining islet morphogenesis in vivo with subcellular resolution. Our goal is to define the process of islet assembly and identify molecular mediators.
-        </p>
+        
 
-        <h3>Glucose Regulation</h3>
-        <p>
+        **Glucose Regulation**
+        
             Therapeutic intervention in diabetes aims to enhance beta cell function and survival. We utilize novel transgenic reporter lines for following metabolic processes, in combination with our diabetic zebrafish model. We explore how hyperglycemia and beta cells are impacted by candidate pharmacologic interventions, through assessing physiological parameters, oxidative stress, and mitochondrial changes.
-        </p>
+        
 
-        <h3>Long-Term Impact of Disrupted Glucose Homeostasis</h3>
-        <p>
+        **Long-Term Impact of Disrupted Glucose Homeostasis**
+        
             We use zebrafish diabetes models to investigate tissue-specific organ pathologies, particularly changes in the retina, and mechanisms leading to diabetic retinopathy. Imaging studies are combined with gene expression analyses, looking at larval as well as adult stages.
-        </p>
+        
 
-        <h3>Advanced Nanoparticles for Imaging Applications</h3>
-        <p>
+        **Advanced Nanoparticles for Imaging Applications**
+       
             In the collaborative project <strong>SWIMMOT</strong> (Switchable magneto-plasmonic contrast agents and molecular imaging technologies), advanced nanoparticle contrast agents are being developed for imaging disease pathophysiology. <strong>Funding: Horizon 2020 – FET OPEN</strong>
-        </p>
+        
 
         <img src="/images/DirArrows.png" alt="Image 1" style="max-width: 100%; height: auto; margin-bottom: 20px;" />
         <img src="/images/RK_Research.png" alt="Image 2" style="max-width: 100%; height: auto; margin-bottom: 20px;" />
