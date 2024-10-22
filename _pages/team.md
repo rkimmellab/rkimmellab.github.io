@@ -12,7 +12,7 @@ permalink: /team/
 <img src="{{ site.url }}{{ site.baseurl }}/images/Climber.png" class="img-responsive" style="float: left" />
 
 **Principle Investigator**
-<img src="{{ site.url }}{{ site.baseurl }}/images/Robin.png" class="img-responsive" style="float: left" 
+<img src="{{ site.url }}{{ site.baseurl }}/images/Robin.png" class="img-responsive" style="float: left" />
 
 Associate Professor
 Robin Alicia Kimmel
