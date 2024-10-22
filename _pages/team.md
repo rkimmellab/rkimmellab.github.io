@@ -16,7 +16,8 @@ permalink: /team/
 
 Associate Professor
 Robin Alicia Kimmel
-
-Pauline Bicker, PhD Student
-Lara Angerer, Student Research Assistant
-Katharina Huber, Student Research Assistant
+<ul>
+<li>Pauline Bicker, PhD Student</li>
+<li>Lara Angerer, Student Research Assistant</li>
+<li>Katharina Huber, Student Research Assistant</li>
+</ul>
