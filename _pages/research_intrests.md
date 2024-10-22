@@ -7,7 +7,6 @@ permalink: /research_intrests/
 ---
 
 <div style="display: flex; gap: 20px;">
-    <!-- Text Content -->
     <div style="flex: 1;">
         <h2>Research Interests</h2>
 
@@ -32,7 +31,6 @@ permalink: /research_intrests/
         </p>
     </div>
 
-    <!-- Images Section -->
     <div style="flex: 1;">
         <img src="/images/DirArrows.png" alt="Image 1" style="max-width: 100%; height: auto; margin-bottom: 20px;" />
         <img src="/images/RK_Research.png" alt="Image 2" style="max-width: 100%; height: auto; margin-bottom: 20px;" />
