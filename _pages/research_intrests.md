@@ -28,7 +28,7 @@ permalink: /research_intrests/
             <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/RK_Research2.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/_smCrpd_2018_0313_WTe3_36Sl_2ChRed_3DviewMagGr.png" alt="Slide 3" />
+            <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/longname.png" alt="Slide 3" />
         </div>       
         <div class="item">
             <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/3D_Cells.png" alt="Slide 4" />
