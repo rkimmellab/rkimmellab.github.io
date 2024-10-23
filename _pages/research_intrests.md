@@ -3,50 +3,26 @@ title: "Kimmel Lab - Research Interests"
 layout: gridlay
 excerpt: "Kimmel Lab: Research Interests"
 sitemap: false
-permalink: /research_intrests/
+permalink: /research_interests/
 ---
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
-    <!-- Menu -->
-    <ol class="carousel-indicators">
-        <li data-target="#carousel" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel" data-slide-to="1"></li>
-        <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
-    </ol>
-
-    <!-- Items -->
-    <div class="carousel-inner" markdown="0">
-        <div class="item active">
-            <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/DirArrows.png" alt="Slide 0" />
-        </div>
-        <div class="item">
-            <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/RK_Research.png" alt="Slide 1" />
-        </div>
-        <div class="item">
-            <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/RK_Research2.png" alt="Slide 2" />
-        </div>
-        <div class="item">
-            <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/longname.png" alt="Slide 3" />
-        </div>       
-        <div class="item">
-            <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/3D_Cells.png" alt="Slide 4" />
-        </div>
-    </div>
-
-    <!-- Navigation -->
-    <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-    </a>
-    <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-    </a>
-</div>
-
 <h2>Research Interests</h2>
+
+<div>
+    <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/DirArrows.png" alt="Slide 0" />
+</div>
+<div>
+    <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/RK_Research.png" alt="Slide 1" />
+</div>
+<div>
+    <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/RK_Research2.png" alt="Slide 2" />
+</div>
+<div>
+    <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/longname.png" alt="Slide 3" />
+</div>       
+<div>
+    <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/3D_Cells.png" alt="Slide 4" />
+</div>
 
 <h3>Pancreatic Islet Morphogenesis</h3>
 <p>
@@ -67,5 +43,3 @@ permalink: /research_intrests/
 <p>
   In the collaborative project <strong>SWIMMOT</strong> (Switchable magneto-plasmonic contrast agents and molecular imaging technologies), advanced nanoparticle contrast agents are being developed for imaging disease pathophysiology. <strong>Funding: Horizon 2020 – FET OPEN</strong>
 </p>
-
-
