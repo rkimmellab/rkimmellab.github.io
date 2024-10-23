@@ -15,7 +15,7 @@ permalink: /
     <!-- Items -->
     <div class="carousel-inner">
       <div class="item active">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/RK_Landing_Horiz_CompHeadTail.png" alt="Slide 1" style="max-width: 100%; height: auto;" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/RK_Landing_Horiz_CompHeadTail.png" alt="Slide 1" style="max-width: 400%; height: auto;" />
       </div>
     </div>
     <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
