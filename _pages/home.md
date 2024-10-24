@@ -23,22 +23,22 @@ permalink: /
         <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/RK_Landing_Horiz_CompHeadTail.png" alt="Slide 0" />
       </div>
       <div class="item">
-        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/_HomePage_Sl1.png" alt="Slide 1" />
+        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/HomePage_Sl1.png" alt="Slide 1" />
       </div>
       <div class="item">
-        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/_HomePage_Sl2.png" alt="Slide 2" />
+        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/HomePage_Sl2.png" alt="Slide 2" />
       </div>
       <div class="item">
-        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/_HomePage_Sl3.png" alt="Slide 3" />
+        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/HomePage_Sl3.png" alt="Slide 3" />
       </div>
       <div class="item">
-        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/_HomePage_Sl4.png" alt="Slide 4" />
+        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/HomePage_Sl4.png" alt="Slide 4" />
       </div>
       <div class="item">
-        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/_HomePage_Sl5.png" alt="Slide 5" />
+        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/HomePage_Sl5.png" alt="Slide 5" />
       </div>
       <div class="item">
-        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/_HomePage_Sl6.png" alt="Slide 6" />
+        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/HomePage_Sl6.png" alt="Slide 6" />
       </div>
     </div>
     <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
