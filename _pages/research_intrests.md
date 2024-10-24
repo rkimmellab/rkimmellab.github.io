@@ -3,7 +3,7 @@ title: "Kimmel Lab - Research Interests"
 layout: gridlay
 excerpt: "Kimmel Lab: Research Interests"
 sitemap: false
-permalink: /research_interests/
+permalink: /research_intrests/
 ---
 
 <h2>Research Interests</h2>
