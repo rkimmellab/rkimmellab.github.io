@@ -11,7 +11,7 @@ permalink: /research_intrests/
 <!-- Section for Pancreatic Islet Morphogenesis -->
 <div class="research-section">
   <div class="research-image">
-    <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/DirArrows.png" alt="Pancreatic Islet Morphogenesis" />
+    <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/DirArrows.png />
   </div>
   <div class="research-text">
     <h3>Pancreatic Islet Morphogenesis</h3>
@@ -24,7 +24,7 @@ permalink: /research_intrests/
 <!-- Section for Glucose Regulation -->
 <div class="research-section">
   <div class="research-image">
-    <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/RK_Research.png" alt="Glucose Regulation" />
+    <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/RK_Research.png"/>
   </div>
   <div class="research-text">
     <h3>Glucose Regulation</h3>
@@ -37,7 +37,7 @@ permalink: /research_intrests/
 <!-- Section for Long-Term Impact of Disrupted Glucose Homeostasis -->
 <div class="research-section">
   <div class="research-image">
-    <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/RK_Research2.png" alt="Long-Term Impact of Disrupted Glucose Homeostasis" />
+    <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/RK_Research2.png"/>
   </div>
   <div class="research-text">
     <h3>Long-Term Impact of Disrupted Glucose Homeostasis</h3>
@@ -50,7 +50,7 @@ permalink: /research_intrests/
 <!-- Section for Advanced Nanoparticles for Imaging Applications -->
 <div class="research-section">
   <div class="research-image">
-    <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/longname.png" alt="Advanced Nanoparticles for Imaging Applications" />
+    <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/longname.png"/>
   </div>
   <div class="research-text">
     <h3>Advanced Nanoparticles for Imaging Applications</h3>
@@ -63,7 +63,7 @@ permalink: /research_intrests/
 <!-- Section for 3D Cells -->
 <div class="research-section">
   <div class="research-image">
-    <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/3D_Cells.png" alt="3D Cells" />
+    <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/3D_Cells.png"/>
   </div>
 </div>
 
