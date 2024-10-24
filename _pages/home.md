@@ -11,11 +11,34 @@ permalink: /
     <!-- Menu -->
     <ol class="carousel-indicators">
       <li data-target="#carousel" data-slide-to="0" class="active"></li>
+      <li data-target="#carousel" data-slide-to="1"></li>
+      <li data-target="#carousel" data-slide-to="2"></li>
+      <li data-target="#carousel" data-slide-to="3"></li>
+      <li data-target="#carousel" data-slide-to="4"></li>
+      <li data-target="#carousel" data-slide-to="5"></li>
     </ol>
     <!-- Items -->
     <div class="carousel-inner">
       <div class="item active">
         <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/RK_Landing_Horiz_CompHeadTail.png" alt="Slide 0" />
+      </div>
+      <div class="item">
+        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/_HomePage_Sl1.png" alt="Slide 1" />
+      </div>
+      <div class="item">
+        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/_HomePage_Sl2.png" alt="Slide 2" />
+      </div>
+      <div class="item">
+        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/_HomePage_Sl3.png" alt="Slide 3" />
+      </div>
+      <div class="item">
+        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/_HomePage_Sl4.png" alt="Slide 4" />
+      </div>
+      <div class="item">
+        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/_HomePage_Sl5.png" alt="Slide 5" />
+      </div>
+      <div class="item">
+        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/_HomePage_Sl6.png" alt="Slide 6" />
       </div>
     </div>
     <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -31,7 +54,7 @@ permalink: /
   <!-- Video Section -->
   <div id="video-container" style="flex: 1; padding-left: 20px;">
     <video width="700" height="400" autoplay loop muted>
-      <source src="{{ site.url }}{{ site.baseurl }}/images/Protrusion_Video.mp4 type="video/mp4">
+      <source src="{{ site.url }}{{ site.baseurl }}/images/Protrusion_Video.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
@@ -46,5 +69,6 @@ coalescence, especially how intracellular motility is triggered and coordinated 
 signals and cell-cell interactions. In addition, our group uses the pdx1 mutant zebrafish to investigate
 metabolism relating to glucose homeostasis in zebrafish, and to explore the pathogenesis of diabetic
 complications.
+
 
 
