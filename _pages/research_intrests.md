@@ -8,21 +8,11 @@ permalink: /research_intrests/
 
 <h2>Research Interests</h2>
 
-<div>
-    <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/DirArrows.png" alt="Slide 0" />
-</div>
-<div>
-    <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/RK_Research.png" alt="Slide 1" />
-</div>
-<div>
-    <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/RK_Research2.png" alt="Slide 2" />
-</div>
-<div>
-    <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/longname.png" alt="Slide 3" />
-</div>       
-<div>
-    <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/3D_Cells.png" alt="Slide 4" />
-</div>
+<img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/DirArrows.png" alt="Slide 0" />
+<img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/RK_Research.png" alt="Slide 1" />
+<img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/RK_Research2.png" alt="Slide 2" />
+<img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/longname.png" alt="Slide 3" />
+<img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/3D_Cells.png" alt="Slide 4" />
 
 <h3>Pancreatic Islet Morphogenesis</h3>
 <p>
