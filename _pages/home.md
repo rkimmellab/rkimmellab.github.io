@@ -14,7 +14,7 @@ permalink: /
 
 <div markdown="0" id="carousel-and-content">
   <!-- Carousel Section -->
-  <div id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" style="width: 100%;">
+  <div id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" style="width: 100%; padding: 50px;">
     <!-- Menu -->
     <ol class="carousel-indicators">
       <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -55,7 +55,7 @@ permalink: /
   </div>
 
   <!-- Content Section with Video and Text -->
-  <div id="video-and-text" style="display: flex; justify-content: flex-end; align-items: flex-start; width: 150%; gap: 20px; padding: 50px;">
+  <div id="video-and-text" style="display: flex; justify-content: flex-end; align-items: flex-start; width: 120%; gap: 50px; padding: 50px;">
     <div id="text-content" style="flex: 1; text-align: right;">
       <h2>Islet Development and Glucose Regulation</h2>
       <p>Our research is focused on pancreatic islet development, islet function, and metabolic disturbances
