@@ -5,9 +5,9 @@ excerpt: "Kimmel Lab at Innsbruck University &rarr; LMU."
 sitemap: false
 permalink: /
 ---
-<div markdown="0" id="carousel-and-content" style="display: flex; justify-content: space-between; align-items: flex-start;">
+<div markdown="0" id="carousel-and-content" style="background-color: #f0f0f0; padding: 20px;">
   <!-- Carousel Section -->
-  <div id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" style="flex: 1; max-width: 50%;">
+  <div id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" style="max-width: 100%; margin-bottom: 20px;">
     <!-- Menu -->
     <ol class="carousel-indicators">
       <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -20,25 +20,25 @@ permalink: /
     <!-- Items -->
     <div class="carousel-inner">
       <div class="item active">
-        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/RK_Landing_Horiz_CompHeadTail.png" alt="Slide 0" />
+        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/RK_Landing_Horiz_CompHeadTail.png" alt="Slide 0" style="width: 100%; height: auto;" />
       </div>
       <div class="item">
-        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/HomePage_Sl1.png" alt="Slide 1" />
+        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/HomePage_Sl1.png" alt="Slide 1" style="width: 100%; height: auto;" />
       </div>
       <div class="item">
-        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/HomePage_Sl2.png" alt="Slide 2" />
+        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/HomePage_Sl2.png" alt="Slide 2" style="width: 100%; height: auto;" />
       </div>
       <div class="item">
-        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/HomePage_Sl3.png" alt="Slide 3" />
+        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/HomePage_Sl3.png" alt="Slide 3" style="width: 100%; height: auto;" />
       </div>
       <div class="item">
-        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/HomePage_Sl4.png" alt="Slide 4" />
+        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/HomePage_Sl4.png" alt="Slide 4" style="width: 100%; height: auto;" />
       </div>
       <div class="item">
-        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/HomePage_Sl5.png" alt="Slide 5" />
+        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/HomePage_Sl5.png" alt="Slide 5" style="width: 100%; height: auto;" />
       </div>
       <div class="item">
-        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/HomePage_Sl6.png" alt="Slide 6" />
+        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/HomePage_Sl6.png" alt="Slide 6" style="width: 100%; height: auto;" />
       </div>
     </div>
     <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -52,13 +52,13 @@ permalink: /
   </div>
 
   <!-- Content Section with Video and Text -->
-  <div id="video-and-text" style="flex: 1; padding-left: 20px; display: flex; flex-direction: column;">
-    <video width="400" height="225" autoplay loop muted style="margin-bottom: 20px;">
+  <div id="video-and-text" style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <video width="400" height="225" autoplay loop muted style="margin-right: 20px;">
       <source src="{{ site.url }}{{ site.baseurl }}/images/Protrusion_Video.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
 
-    <div id="text-content">
+    <div id="text-content" style="flex: 1;">
       <h2>Islet Development and Glucose Regulation</h2>
       <p>Our research is focused on pancreatic islet development, islet function, and metabolic disturbances
       in diabetes, using zebrafish as a model organism. A main interest is to use advanced imaging and
