@@ -5,7 +5,7 @@ excerpt: "Kimmel Lab at Innsbruck University &rarr; LMU."
 sitemap: false
 permalink: /
 ---
-<div markdown="0" id="carousel-and-content" style="background-color: #f0f0f0;">
+<div markdown="0" id="carousel-and-content" style="background-color: #f0f0f0;" width: 50vw; >
   <!-- Carousel Section -->
   <div id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" style="width: 80%; margin: 20px auto;">
     <!-- Menu -->
