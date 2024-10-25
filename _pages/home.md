@@ -5,7 +5,7 @@ excerpt: "Kimmel Lab at Innsbruck University &rarr; LMU."
 sitemap: false
 permalink: /
 ---
-<div markdown="0" id="carousel-and-content" style="background-color: #f0f0f0; padding: 20px;">
+<div markdown="0" id="carousel-and-content" style="background-color: #f0f0f0;">
   <!-- Carousel Section -->
   <div id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" style="max-width: 100%; margin-bottom: 20px;">
     <!-- Menu -->
@@ -53,10 +53,7 @@ permalink: /
 
   <!-- Content Section with Video and Text -->
   <div id="video-and-text" style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <video width="400" height="225" autoplay loop muted style="margin-right: 20px;">
-      <source src="{{ site.url }}{{ site.baseurl }}/images/Protrusion_Video.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
+
 
     <div id="text-content" style="flex: 1;">
       <h2>Islet Development and Glucose Regulation</h2>
@@ -68,6 +65,10 @@ permalink: /
       metabolism relating to glucose homeostasis in zebrafish, and to explore the pathogenesis of diabetic
       complications.</p>
     </div>
+    <video width="400" height="225" autoplay loop muted style="margin-right: 20px;">
+      <source src="{{ site.url }}{{ site.baseurl }}/images/Protrusion_Video.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
   </div>
 </div>
 
