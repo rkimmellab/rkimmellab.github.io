@@ -63,11 +63,9 @@ permalink: /
       metabolism relating to glucose homeostasis in zebrafish, and to explore the pathogenesis of diabetic
       complications.</p>
     </div>
-    <video width="400" height="225" autoplay loop muted style="margin-right: 20px;">
+    <video width="40%" height="auto" autoplay loop muted style="flex-shrink: 0; margin-right: 20px;">
       <source src="{{ site.url }}{{ site.baseurl }}/images/Protrusion_Video.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
 </div>
-
-
