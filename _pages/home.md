@@ -7,7 +7,7 @@ permalink: /
 ---
 <div markdown="0" id="carousel-and-content" style="background-color: #f0f0f0; width: 100vw; overflow-x: hidden;">
   <!-- Carousel Section -->
-  <div id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" style="width: 100%; margin-bottom: 20px;">
+  <div id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" style="width: 80%; margin: 20px auto;">
     <!-- Menu -->
     <ol class="carousel-indicators">
       <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -15,14 +15,10 @@ permalink: /
       <li data-target="#carousel" data-slide-to="2"></li>
       <li data-target="#carousel" data-slide-to="3"></li>
       <li data-target="#carousel" data-slide-to="4"></li>
-      <li data-target="#carousel" data-slide-to="5"></li>
     </ol>
     <!-- Items -->
     <div class="carousel-inner">
       <div class="item active">
-        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/RK_Landing_Horiz_CompHeadTail.png" alt="Slide 0" style="width: 100%; height: auto;" />
-      </div>
-      <div class="item">
         <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/HomePage_Sl1.png" alt="Slide 1" style="width: 100%; height: auto;" />
       </div>
       <div class="item">
@@ -52,8 +48,8 @@ permalink: /
   </div>
 
   <!-- Content Section with Video and Text -->
-  <div id="video-and-text" style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
-    <div id="text-content" style="flex: 1;">
+  <div id="video-and-text" style="display: flex; justify-content: flex-end; align-items: flex-start; width: 100%; gap: 20px; padding: 20px;">
+    <div id="text-content" style="flex: 1; text-align: right;">
       <h2>Islet Development and Glucose Regulation</h2>
       <p>Our research is focused on pancreatic islet development, islet function, and metabolic disturbances
       in diabetes, using zebrafish as a model organism. A main interest is to use advanced imaging and
@@ -63,9 +59,10 @@ permalink: /
       metabolism relating to glucose homeostasis in zebrafish, and to explore the pathogenesis of diabetic
       complications.</p>
     </div>
-    <video width="40%" height="auto" autoplay loop muted style="flex-shrink: 0">
+    <video width="35%" height="auto" autoplay loop muted style="flex-shrink: 0; margin-left: 20px;">
       <source src="{{ site.url }}{{ site.baseurl }}/images/Protrusion_Video.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
 </div>
+
