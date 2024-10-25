@@ -55,7 +55,7 @@ permalink: /
   </div>
 
   <!-- Content Section with Video and Text -->
-  <div id="video-and-text" style="display: flex; justify-content: flex-end; align-items: flex-start; width: 100%; gap: 20px; padding: 20px;">
+  <div id="video-and-text" style="display: flex; justify-content: flex-end; align-items: flex-start; width: 150%; gap: 20px; padding: 50px;">
     <div id="text-content" style="flex: 1; text-align: right;">
       <h2>Islet Development and Glucose Regulation</h2>
       <p>Our research is focused on pancreatic islet development, islet function, and metabolic disturbances
