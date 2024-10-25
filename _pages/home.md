@@ -5,7 +5,7 @@ excerpt: "Kimmel Lab at Innsbruck University &rarr; LMU."
 sitemap: false
 permalink: /
 ---
-<div markdown="0" id="carousel-and-content" style="background-color: #f0f0f0; width: 80vw; overflow-x: hidden;">
+<div markdown="0" id="carousel-and-content" style="background-color: #f0f0f0; width: 100vw; overflow-x: hidden;">
   <!-- Carousel Section -->
   <div id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" style="width: 100%; margin-bottom: 20px;">
     <!-- Menu -->
@@ -53,7 +53,7 @@ permalink: /
 
   <!-- Content Section with Video and Text -->
   <div id="video-and-text" style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
-    <div id="text-content" style="flex: 1; padding: 20px;">
+    <div id="text-content" style="flex: 1;">
       <h2>Islet Development and Glucose Regulation</h2>
       <p>Our research is focused on pancreatic islet development, islet function, and metabolic disturbances
       in diabetes, using zebrafish as a model organism. A main interest is to use advanced imaging and
@@ -63,7 +63,7 @@ permalink: /
       metabolism relating to glucose homeostasis in zebrafish, and to explore the pathogenesis of diabetic
       complications.</p>
     </div>
-    <video width="40%" height="auto" autoplay loop muted style="flex-shrink: 0; margin-right: 20px;">
+    <video width="40%" height="auto" autoplay loop muted style="flex-shrink: 0">
       <source src="{{ site.url }}{{ site.baseurl }}/images/Protrusion_Video.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
