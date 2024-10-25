@@ -5,7 +5,12 @@ excerpt: "Kimmel Lab: Research Interests"
 sitemap: false
 permalink: /research_intrests/
 ---
-
+<style>
+  /* Set entire page background to grey */
+  body {
+    background-color: #f0f0f0;
+  }
+</style>
 <h2>Research Interests</h2>
 
 <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/Research_BannerTop.png"/>
