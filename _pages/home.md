@@ -14,7 +14,7 @@ permalink: /
 
 <div markdown="0" id="carousel-and-content">
   <!-- Carousel Section -->
-  <div id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" style="width: 100%; padding: 50px;">
+  <div id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" style="width: 150%; padding: 50px;">
     <!-- Menu -->
     <ol class="carousel-indicators">
       <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -26,22 +26,22 @@ permalink: /
     <!-- Items -->
     <div class="carousel-inner">
       <div class="item active">
-        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/HomePage_Sl1.png" alt="Slide 1" style="width: 100%; height: auto;" />
+        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/HomePage_Sl1.png" alt="Slide 1" style="width: 150%; height: auto;" />
       </div>
       <div class="item">
-        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/HomePage_Sl2.png" alt="Slide 2" style="width: 100%; height: auto;" />
+        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/HomePage_Sl2.png" alt="Slide 2" style="width: 150%; height: auto;" />
       </div>
       <div class="item">
-        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/HomePage_Sl3.png" alt="Slide 3" style="width: 100%; height: auto;" />
+        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/HomePage_Sl3.png" alt="Slide 3" style="width: 150%; height: auto;" />
       </div>
       <div class="item">
-        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/HomePage_Sl4.png" alt="Slide 4" style="width: 100%; height: auto;" />
+        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/HomePage_Sl4.png" alt="Slide 4" style="width: 150%; height: auto;" />
       </div>
       <div class="item">
-        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/HomePage_Sl5.png" alt="Slide 5" style="width: 100%; height: auto;" />
+        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/HomePage_Sl5.png" alt="Slide 5" style="width: 150%; height: auto;" />
       </div>
       <div class="item">
-        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/HomePage_Sl6.png" alt="Slide 6" style="width: 100%; height: auto;" />
+        <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/HomePage_Sl6.png" alt="Slide 6" style="width: 150%; height: auto;" />
       </div>
     </div>
     <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
