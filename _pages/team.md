@@ -74,7 +74,7 @@ permalink: /team/
   <li style="display: flex; align-items: flex-start; margin-bottom: 20px;">
     <img src="{{ site.url }}{{ site.baseurl }}/images/blank.jpg" class="img-responsive" style="width: 150px; height: auto; margin-right: 20px;" />
     <div>
-      <strong>Elea Sophie Meissen</strong><br>
+      <strong>Elea Sophie Miessen</strong><br>
       <a href="mailto:Elea.Miessen@student.uibk.ac.at">Elea.Miessen@student.uibk.ac.at</a>
     </div>
   </li>
