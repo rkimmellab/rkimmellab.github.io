@@ -53,7 +53,7 @@ permalink: /team/
     </div>
   </li>
   <li style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/cell.jpg" class="img-responsive" style="width: 150px; height: auto; margin-right: 20px;" />
+    <img src="{{ site.url }}{{ site.baseurl }}/images/blank.jpg" class="img-responsive" style="width: 150px; height: auto; margin-right: 20px;" />
     <div>
       <strong>Ferdinand Loeffler</strong><br>
       <a href="mailto:Ferdinand.Loeffler@uibk.ac.at">Ferdinand.Loeffler@uibk.ac.at</a>
