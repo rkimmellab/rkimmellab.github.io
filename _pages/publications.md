@@ -42,6 +42,10 @@ permalink: /publications/
 
     <h2>Selected Publications:</h2>
     <ul>
+    <li>
+            Schmitner, N., Thumer, S., Regele, D. et al. 
+            <a href="https://doi.org/10.1038/s42003-024-07264-5" target="_blank">Conserved glucokinase regulation in zebrafish confirms therapeutic utility for pharmacologic modulation in diabetes.</a>. Commun Biol 7, 1557 (2024).
+        </li>
         <li>
             Agneter, A., Muellner, P., Nguyen, Q. et al. 
             <a href="https://doi.org/10.1186/s43074-024-00150-7" target="_blank">CMOS optoelectronic spectrometer based on photonic integrated circuit for in vivo 3D optical coherence tomography</a>. PhotoniX 5, 31 (2024).
