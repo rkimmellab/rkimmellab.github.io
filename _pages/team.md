@@ -11,21 +11,21 @@ permalink: /team/
 **Principal Investigator**
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/Robin.png" class="img-responsive" style="width: 150px; height: auto; margin-right: 20px;" />
-  <div>
+  
     <strong>Robin Alicia Kimmel</strong><br>
     Associate Professor
-  </div>
+  
 </div>
 
 **PhD Students**
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/Nicki_Picture.jpg" class="img-responsive" style="width: 150px; height: auto; margin-right: 20px;" />
-  <div>
+  
     <strong>Nicole Schmitner</strong><br>
     <a href="mailto:Nicole.Schmitner@uibk.ac.at">Nicole.Schmitner@uibk.ac.at</a><br>
     <a href="https://www.linkedin.com/in/nicole-schmitner-747710aa/" target="_blank">LinkedIn</a><br>
     <a href="https://www.researchgate.net/profile/Nicole-Schmitner" target="_blank">ResearchGate</a>
-  </div>
+  
 </div>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/blank.jpg" class="img-responsive" style="width: 150px; height: auto; margin-right: 20px;" />
