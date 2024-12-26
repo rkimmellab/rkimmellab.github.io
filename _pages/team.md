@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 
-**Team**
+<h1>Team</h1>
 
 **Principal Investigator**
 <ul style="list-style: none; padding: 0;">
