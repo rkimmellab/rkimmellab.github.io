@@ -19,7 +19,8 @@ permalink: /team/
   </li>
 </ul>
 
-**PhD Students**
+
+**Postdoctoral Scientist**
 <ul style="list-style: none; padding: 0;">
   <li style="display: flex; align-items: flex-start; margin-bottom: 20px;">
     <img src="{{ site.url }}{{ site.baseurl }}/images/Nicki_Picture.jpg" class="img-responsive" style="width: 150px; height: auto; margin-right: 20px;" />
@@ -30,9 +31,12 @@ permalink: /team/
       <a href="https://www.researchgate.net/profile/Nicole-Schmitner" target="_blank">ResearchGate</a>
     </div>
   </li>
+</ul>
+
+**PhD Students**
+<ul style="list-style: none; padding: 0;">
   <li style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/blank.jpg" class="img-responsive" style="width: 150px; height: auto; margin-right: 20px;" />
-    <div>
+    <img src="{{ site.url }}{{ site.baseurl }}/images/Nicki_Picture.jpg" class="img-responsive" style="width: 150px; height: auto; margin-right: 20px;" />
       <strong>Pauline Bicker</strong><br>
       <a href="mailto:Pauline.Bicker@student.uibk.ac.at">Pauline.Bicker@student.uibk.ac.at</a>
     </div>
