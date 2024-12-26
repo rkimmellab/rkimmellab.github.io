@@ -44,7 +44,7 @@ permalink: /team/
   </li>
 </ul>
 
-**Master's Students**
+**Master Students**
 <ul style="list-style: none; padding: 0;">
   <li style="display: flex; align-items: flex-start; margin-bottom: 20px;">
     <img src="{{ site.url }}{{ site.baseurl }}/images/blank.jpg" class="img-responsive" style="width: 150px; height: auto; margin-right: 20px;" />
