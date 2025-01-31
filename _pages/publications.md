@@ -45,7 +45,6 @@ permalink: /publications/
     <li>
             Widhalm R, Granitzer S, Natha B, Zoboli O, D. et al.            
             <a href="https://doi.org/10.1016/j.envpol.2024.125595" target="_blank">Perfluorodecanoic acid (PFDA) increases oxidative stress through inhibition of mitochondrial beta-oxidation</a>. Commun Biol 7, 1557 (2024).
-
         </li>
         <li>
             Schmitner, N., Thumer, S., Regele, D. et al. 
