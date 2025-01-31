@@ -17,9 +17,9 @@ permalink: /links/
 <h2>Zebrafish Community</h2>
 
 <ul>
-    <li><a href="https://zfin.org/" target="_blank">“ZFIN - The Zebrafish Information Network”</a></li>
-    <li><a href="https://www.ezsociety.org/" target="_blank">“European Zebrafish Society”</a></li>
-    <li><a href="https://www.zdmsociety.org/" target="_blank">“Zebrafish Disease Models Society”</a></li>
+    <li><a href="https://zfin.org/" target="_blank">ZFIN - The Zebrafish Information Network</a></li>
+    <li><a href="https://www.ezsociety.org/" target="_blank">European Zebrafish Society</a></li>
+    <li><a href="https://www.zdmsociety.org/" target="_blank">Zebrafish Disease Models Society</a></li>
 </ul>
 
 <h2>Biomedical Picture of the Day</h2>
