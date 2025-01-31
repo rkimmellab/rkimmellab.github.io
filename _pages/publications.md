@@ -43,13 +43,13 @@ permalink: /publications/
     <h2>Selected Publications:</h2>
     <ul>
     <li>
-	Widhalm R, Granitzer S, Natha B, Zoboli O, D. et al.            
-	 <a href=“https://doi.org/10.1016/j.envpol.2024.125595” target="_blank">Perfluorodecanoic acid (PFDA) increases oxidative stress through inhibition of mitochondrial beta-oxidation</a>. Environ Pollut. 2024 Dec 27:367:125595.
+            Widhalm R, Granitzer S, Natha B, Zoboli O, D. et al.            
+            <a href="https://doi.org/10.1016/j.envpol.2024.125595" target="_blank">Perfluorodecanoic acid (PFDA) increases oxidative stress through inhibition of mitochondrial beta-oxidation</a>. Commun Biol 7, 1557 (2024).
 
         </li>
         <li>
             Schmitner, N., Thumer, S., Regele, D. et al. 
-            <a href="https://doi.org/10.1038/s42003-024-07264-5" target="_blank">Conserved glucokinase regulation in zebrafish confirms therapeutic utility for pharmacologic modulation in diabetes.</a>. Commun Biol 7, 1557 (2024).
+            <a href="https://doi.org/10.1038/s42003-024-07264-5" target="_blank">Conserved glucokinase regulation in zebrafish confirms therapeutic utility for pharmacologic modulation in diabetes</a>. Commun Biol 7, 1557 (2024).
         </li>
         <li>
             Agneter, A., Muellner, P., Nguyen, Q. et al. 
