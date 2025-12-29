@@ -44,7 +44,7 @@ permalink: /publications/
     <ul>
     <li>
         Varady A,Grissenberger S,Wenniger-Weinzierl A, et al.
-        <a href="https://pubmed.ncbi.nlm.nih.gov/40014051/">Precise photopharmacological eradication of metastatic tumor cells</a> Dis Model Mech. 2025 Feb 1;18(2):DMM052016.
+        <a href="[https://pubmed.ncbi.nlm.nih.gov/40014051/](https://journals.biologists.com/dmm/article/18/2/DMM052016/367235/Precise-photopharmacological-eradication-of)">Precise photopharmacological eradication of metastatic tumor cells</a> Dis Model Mech. 2025 Feb 1;18(2):DMM052016.
 
         </li>
     <li>
