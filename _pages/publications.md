@@ -43,6 +43,10 @@ permalink: /publications/
     <h2>Selected Publications:</h2>
     <ul>
     <li>
+        Varady A,Grissenberger S,Wenniger-Weinzierl A, et al.
+        <a href="https://pubmed.ncbi.nlm.nih.gov/40014051/">Precise photopharmacological eradication of metastatic tumor cells</a>
+        </li>
+    <li>
             Widhalm R, Granitzer S, Natha B, Zoboli O, et al.            
             <a href="https://doi.org/10.1016/j.envpol.2024.125595" target="_blank">Perfluorodecanoic acid (PFDA) increases oxidative stress through inhibition of mitochondrial beta-oxidation</a>. Environ Pollut. 2024 Dec 27:367:125595.
         </li>
