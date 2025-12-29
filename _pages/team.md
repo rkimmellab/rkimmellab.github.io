@@ -64,13 +64,12 @@ permalink: /team/
 
 **Research Assistants**
 <ul style="list-style: none; padding: 0;">
-  <!-- <li style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/Lara_Picture.jpg" class="img-responsive" style="width: 150px; height: auto; margin-right: 20px;" />
+  <li style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/blank.jpg" class="img-responsive" style="width: 150px; height: auto; margin-right: 20px;" />
     <div>
-      <strong>Lara Angerer</strong><br>
-      <a href="mailto:Lara.Angerer@student.uibk.ac.at">Lara.Angerer@student.uibk.ac.at</a>
-    </div>
-  </li> -->
+      <strong>Franka Bade</strong><br>
+     </div>
+  </li>
   <li style="display: flex; align-items: flex-start; margin-bottom: 20px;">
     <img src="{{ site.url }}{{ site.baseurl }}/images/blank.jpg" class="img-responsive" style="width: 150px; height: auto; margin-right: 20px;" />
     <div>
